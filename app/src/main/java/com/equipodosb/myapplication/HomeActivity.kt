@@ -29,7 +29,6 @@ class HomeActivity : AppCompatActivity() {
         auth = Firebase.auth
 
         var btn_log_out = findViewById<Button>(R.id.btn_log_out)
-
         var text_email = findViewById<TextView>(R.id.text_email)
         val user = Firebase.auth.currentUser
         text_email.text = user?.email

@@ -1,13 +1,9 @@
 {
   "project_info": {
-    "project_number": "127712613114",
-    "project_id": "myapplication-6d261",
-    "storage_bucket": "myapplication-6d261.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:127712613114:android:961df3d36a16d45143af43",
         "android_client_info": {
           "package_name": "com.equipodosb.myapplication"
         }
@@ -15,7 +11,6 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBuEOo7Efe_ITZLB7_J5LnWe6QnMn_G6Uc"
         }
       ],
       "services": {
