@@ -19,6 +19,7 @@ class MainGastos : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         // Establecer el layout
+        // Establecer el layout
         setContentView(R.layout.activity_main_gastos)
 
         // Inicializar vistas
