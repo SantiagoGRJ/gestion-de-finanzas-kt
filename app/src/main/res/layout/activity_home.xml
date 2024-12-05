@@ -75,7 +75,19 @@
             android:layout_gravity="center"
             android:backgroundTint="@color/purple_500"
             android:textColor="@android:color/white"
-            android:text="Registrar gastos" />
+            android:text="Registrar Gastos"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Botón para ver gastos mensuales -->
+        <Button
+            android:id="@+id/btn_gastos"
+            android:layout_width="250dp"
+            android:layout_height="45dp"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/purple_500"
+            android:textColor="@android:color/white"
+            android:text="Ver Gasto Mensual"
+            android:layout_marginBottom="16dp" />
     </LinearLayout>
 
     <!-- Separador -->
@@ -110,7 +122,7 @@
             android:layout_gravity="center"
             android:backgroundTint="#673AB7"
             android:textColor="@android:color/white"
-            android:text="Cerrar sesión" />
+            android:text="Cerrar Sesión" />
     </LinearLayout>
 
 </LinearLayout>
